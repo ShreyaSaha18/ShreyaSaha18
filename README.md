@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me<br><br>👋 Hi, I’m Shreya — a Senior Software Engineer with 4.6+ years of experience building scalable full-stack applications and distributed microservices.<br><br>💻 I work mainly with Java, Spring Boot, Kafka, Angular, React, Docker, Kubernetes, and cloud technologies.<br><br>🤖 Currently exploring AI/GenAI and how AI can be used to make software development and engineering workflows smarter.<br><br>🚀 I enjoy solving real-world production problems, improving system performance, and learning new technologies.<br><br>🎯 Fun fact: I enjoy turning “this should be impossible” bugs into “how did I actually fix that?” moments. 😄
+About me<br><br>👋 Hi, I’m Shreya — a Senior Software Engineer with 4.11+ years of experience building scalable full-stack applications and distributed microservices.<br><br>💻 I work mainly with Java, Spring Boot, Kafka, Angular, React, Docker, Kubernetes, and cloud technologies.<br><br>🤖 Currently exploring AI/GenAI and how AI can be used to make software development and engineering workflows smarter.<br><br>🚀 I enjoy solving real-world production problems, improving system performance, and learning new technologies.<br><br>🎯 Fun fact: I enjoy turning “this should be impossible” bugs into “how did I actually fix that?” moments. 😄
 
 
 ## 🌐 Socials:
